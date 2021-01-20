@@ -1,4 +1,8 @@
+
+
 class Person:
+    
+    
     nombre=""
     edad=1
     def __init__(self) -> None:
